@@ -1,4 +1,5 @@
 @import '_mixins'; // importing _mixins.scss works
+@import '_syntax'; // importing _syntax.scss.erb does not work
 
 body {
   background-color: #fbc547;
